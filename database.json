@@ -194,9 +194,9 @@
     ],
     "watched_locations": [
         {
-            "name": "Azorix Castle",
-            "coords": [3856, -3815],
-            "radius": 850,
+            "name": "Czechia test",
+            "coords": [970, -3420],
+            "radius": 150,
 
             "teams": ["Azorix"]
         },
